@@ -2,6 +2,8 @@
 
 ## Install the following first
 - https://visualstudio.microsoft.com/vs/
+- https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+- https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15
 
 ## Creating the Database
 - in Package Manager Console in VS type the following:
